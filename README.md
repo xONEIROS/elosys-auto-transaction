@@ -8,7 +8,7 @@
 ## کد هارا نصب کنید
 ```
 git clone https://github.com/xONEIROS/elosys-auto-transaction.git
-cd https://github.com/xONEIROS/elosys-auto-transaction.git
+cd elosys-auto-transaction
 ```
 
 ## نصب پیش نیاز ها 
